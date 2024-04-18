@@ -1,0 +1,32 @@
+.card.card-custom{
+    margin-bottom: 10px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+
+}
+.cat-image{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+}
+.details{
+    margin-bottom: 10px;
+}
+.cat-desc-main{
+    height: 400px;
+    margin-bottom: 10px;
+    overflow-y: hidden;
+    margin-left: 5px;
+}
+.cat-name{
+    font-size: 18px;
+    margin-left: 5px;
+    
+}
+.dashboard-container{
+    margin-right: 15px;
+    margin-left: 15px;
+}
